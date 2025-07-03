@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\bin\Debug\net8.0\ifTernario.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\bin\Debug\net8.0\ifTernario.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\bin\Debug\net8.0\ifTernario.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\bin\Debug\net8.0\ifTernario.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\bin\Debug\net8.0\ifTernario.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ifTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ifTernario.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ifTernario.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ifTernario.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ifTernario.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\refint\ifTernario.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ifTernario.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ifTernario.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\ifTernario\obj\Debug\net8.0\ref\ifTernario.dll

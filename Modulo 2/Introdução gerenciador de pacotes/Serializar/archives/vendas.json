@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Picanha",
+    "Preco": 69.76
+  },
+  {
+    "Id": 2,
+    "Produto": "Pernil",
+    "Preco": 19.99
+  },
+  {
+    "Id": 3,
+    "Produto": "Linguiça Toscana",
+    "Preco": 25.50
+  },
+  {
+    "Id": 4,
+    "Produto": "Filé de frango",
+    "Preco": 21.99
+  },
+  {
+    "Id": 5,
+    "Produto": "Tilapia",
+    "Preco": 35.00
+  }
+]

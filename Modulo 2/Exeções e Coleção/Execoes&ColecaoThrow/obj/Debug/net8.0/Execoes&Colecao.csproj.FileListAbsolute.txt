@@ -1,0 +1,42 @@
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\bin\Debug\net8.0\Execoes&Colecao.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\bin\Debug\net8.0\Execoes&Colecao.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\bin\Debug\net8.0\Execoes&Colecao.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\bin\Debug\net8.0\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\bin\Debug\net8.0\Execoes&Colecao.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\Execoes&Colecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\Execoes&Colecao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\Execoes&Colecao.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\Execoes&Colecao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\refint\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\Execoes&Colecao.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\Execoes&Colecao.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao\obj\Debug\net8.0\ref\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\bin\Debug\net8.0\Execoes&Colecao.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\bin\Debug\net8.0\Execoes&Colecao.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\bin\Debug\net8.0\Execoes&Colecao.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\bin\Debug\net8.0\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\bin\Debug\net8.0\Execoes&Colecao.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\Execoes&Colecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\Execoes&Colecao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\Execoes&Colecao.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\Execoes&Colecao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\refint\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\Execoes&Colecao.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\Execoes&Colecao.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&Colecao Throw\obj\Debug\net8.0\ref\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\bin\Debug\net8.0\Execoes&Colecao.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\bin\Debug\net8.0\Execoes&Colecao.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\bin\Debug\net8.0\Execoes&Colecao.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\bin\Debug\net8.0\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\bin\Debug\net8.0\Execoes&Colecao.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\Execoes&Colecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\Execoes&Colecao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\Execoes&Colecao.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\Execoes&Colecao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\refint\Execoes&Colecao.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\Execoes&Colecao.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\Execoes&Colecao.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Exeções e Coleção\Execoes&ColecaoThrow\obj\Debug\net8.0\ref\Execoes&Colecao.dll

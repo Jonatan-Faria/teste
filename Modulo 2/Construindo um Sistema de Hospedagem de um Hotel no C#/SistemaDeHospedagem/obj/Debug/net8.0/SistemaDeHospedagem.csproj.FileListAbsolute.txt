@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\refint\SistemaDeHospedagem.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Construindo um Sistema de Hospedagem de um Hotel no C#\SistemaDeHospedagem\obj\Debug\net8.0\ref\SistemaDeHospedagem.dll

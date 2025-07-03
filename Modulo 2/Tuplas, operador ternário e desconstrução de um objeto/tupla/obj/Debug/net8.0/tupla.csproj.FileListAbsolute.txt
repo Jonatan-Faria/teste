@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\bin\Debug\net8.0\tupla.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\bin\Debug\net8.0\tupla.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\bin\Debug\net8.0\tupla.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\bin\Debug\net8.0\tupla.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\bin\Debug\net8.0\tupla.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\tupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\tupla.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\tupla.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\tupla.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\tupla.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\refint\tupla.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\tupla.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\tupla.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Tuplas, operador ternário e desconstrução de um objeto\tupla\obj\Debug\net8.0\ref\tupla.dll

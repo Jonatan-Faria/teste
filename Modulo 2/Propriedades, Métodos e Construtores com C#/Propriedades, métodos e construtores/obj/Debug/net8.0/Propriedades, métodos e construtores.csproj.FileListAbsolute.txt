@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\bin\Debug\net8.0\Propriedades, métodos e construtores.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\bin\Debug\net8.0\Propriedades, métodos e construtores.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\bin\Debug\net8.0\Propriedades, métodos e construtores.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\bin\Debug\net8.0\Propriedades, métodos e construtores.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\bin\Debug\net8.0\Propriedades, métodos e construtores.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\Propriedades, métodos e construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\Propriedades, métodos e construtores.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\Propriedades, métodos e construtores.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\Propriedades, métodos e construtores.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\Propriedades, métodos e construtores.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\refint\Propriedades, métodos e construtores.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\Propriedades, métodos e construtores.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\Propriedades, métodos e construtores.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Propriedades, Métodos e Construtores com C#\Propriedades, métodos e construtores\obj\Debug\net8.0\ref\Propriedades, métodos e construtores.dll

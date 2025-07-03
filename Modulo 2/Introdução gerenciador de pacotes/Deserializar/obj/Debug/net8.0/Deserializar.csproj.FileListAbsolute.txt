@@ -1,0 +1,17 @@
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\bin\Debug\net8.0\Deserializar.exe
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\bin\Debug\net8.0\Deserializar.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\bin\Debug\net8.0\Deserializar.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\bin\Debug\net8.0\Deserializar.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\bin\Debug\net8.0\Deserializar.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserial.9F2930B8.Up2Date
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\refint\Deserializar.dll
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\Deserializar.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 2\Introdução gerenciador de pacotes\Deserializar\obj\Debug\net8.0\ref\Deserializar.dll
